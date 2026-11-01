@@ -13,5 +13,7 @@ if __name__ == "__main__":
     print(greet("Python"))
     print("2 + 3 =", add(2, 3))
     print("2 - 3 =", sub(2, 3))
-    print("yellow")
     print("blue")
+    print("yellow")
+    print("pink")
+
