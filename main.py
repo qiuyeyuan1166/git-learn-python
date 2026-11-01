@@ -13,8 +13,10 @@ if __name__ == "__main__":
     print(greet("Python"))
     print("2 + 3 =", add(2, 3))
     print("2 - 3 =", sub(2, 3))
-    print("第1部分")
-    print("Helo abcd")
+    print("第一部分")
+    print("第二部分")
+    print("第三部分")
+
 
 
 
